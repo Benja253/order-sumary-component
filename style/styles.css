@@ -5,7 +5,9 @@
 }
 body{
   font-size: 16px;
+  background-color: rgb(224, 232, 255);
   background-image: url("../images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
   background-size: cover;
   background-position:right;
   height: 100vh;
